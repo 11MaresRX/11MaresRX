@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas rapeize 👋
 
-<!--
-**11MaresRX/11MaresRX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é louis e esse é meu humilde perfil
 
-Here are some ideas to get you started:
+- Infelizmente estou estudando no [alura](https://www.alura.com.br)
+- Estou codando em javaScript
+- Vou utilizar esse local para compartilhar meus sofrimentos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Para mais informações entre em contato 📫 ###
+
+  @luguerreirorx
+  
+  Tayazinxdz@gmail.com
+
+  ![](https://media1.tenor.com/m/LsYPAE9JiP8AAAAd/rolando-ronaldo.gif)
